@@ -2,5 +2,10 @@
 
 namespace StructsAndEnums
 {
-    // TODO:
+    struct Date
+    {
+        private int year;
+        private Month month;
+        private int day;
+    }
 }
